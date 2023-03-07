@@ -1,0 +1,25 @@
+{
+  "name": "javascript-testing-exercises",
+  "version": "1.0.0",
+  "description": "this repo contain exercises of javascript codes testing for module 2 week 3 day 2 where aims is to use jest for testing with TDD And AAA",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byiringiroscar/Javascript-Testing-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byiringiroscar/Javascript-Testing-Exercises/issues"
+  },
+  "homepage": "https://github.com/byiringiroscar/Javascript-Testing-Exercises#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
